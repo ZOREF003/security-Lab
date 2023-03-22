@@ -31,3 +31,20 @@ We have captured the packets and analyzed in the wireshark also.
 <p align="center">
   <img src="IP_LAB/pass-5.png" width="500" alt="pass-5"/> <br/>
   
+--------------------
+### Lets Perform DNS Spoofing attack using ARP Cache Poisoning attacks
+
+First we have give the website name with our gateway in etter.dns using mousepad and then we should select which website page we are going to use. And then we have to start the apache server. The website here im giving is snapdeal.com
+
+  <p align="center">
+  <img src="IP_LAB/dns-1.png" width="500" alt="dns-1"/> <br/>
+
+Then we have to start the Ettercap then give the attacker and victims ip and start the man in the middle attack with arp poisoning but here we have to start the dns in the plugin.
+  <p align="center">
+  <img src="IP_LAB/dns-2.png" width="500" alt="dns-2"/> <br/>
+  <img src="IP_LAB/dns-3.png" width="500" alt="dns-3"/> <br/>
+
+The dns attack is successfully executed.
+
+And we have captured that in the the wireshark successfully.
+  
