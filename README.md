@@ -48,6 +48,3 @@ The dns attack is successfully executed.
   <p align="center">
   <img src="IP_LAB/dns-4.png" width="500" alt="dns-4"/> <br/>
 
-And we have captured that in the the wireshark successfully.
-  <p align="center">
-  <img src="IP_LAB/dns-5.png" width="500" alt="dns-5"/> <br/>  
